@@ -1,12 +1,8 @@
 # Cat-vs-Dog Image Classification
 
-![Cat-Vs-Dog-Image-Classification](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F29489645-cat-and-dog-cartoon-illustration-pet&psig=AOvVaw3w9SgZFe7Dv4u76YzCUMin&ust=1709704600021000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD1mZi43IQDFQAAAAAdAAAAABAVdescription=1&descriptionEditable=%20%20%20%20%20%20%20%20%20Repository%20for%20a%20deep%20learning%20model%20that%20classifies%20images%20as%20either%20cats%20or%20dogs%20using%20deep%20learning%20techniques.&font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Dark))
-
-
 This project aims to classify images as either cats or dogs using machine learning techniques.
 
 ## Dataset
-
 
 - **Filename**: The name of the image file.
 - **Label**: The class label of the image (Cat or Dog).
