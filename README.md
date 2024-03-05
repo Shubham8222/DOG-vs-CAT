@@ -15,18 +15,6 @@ This project aims to classify images as either cats or dogs using machine learni
 - **Notes**: Any additional notes or comments about the image.
 
 
-## Screenshots
-
-### Sample Input/Output
-
-#### Input
-
-![image](https://github.com/neerajcodes888/Cat-Vs-Dog-Image-Classification/assets/98253646/6382bfee-c8c9-4e70-a7b8-51017b43cf71)
-
-
-#### Output
-![image](https://github.com/neerajcodes888/Cat-Vs-Dog-Image-Classification/assets/98253646/cebca6fe-6c4f-472c-aad9-92e6f59c2884)
-
 
 ## Requirements
 
